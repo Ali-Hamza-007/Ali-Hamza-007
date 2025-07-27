@@ -55,23 +55,6 @@ I’m a passionate **Information Technology student** with a deep interest in **
 
 ---
 
-## 🚧 Projects
-
-| 🛠️ Project Name                        | 💬 Tech Stack             |
-|---------------------------------------|---------------------------|
-| Tic Tac Toe                           | C++                       |
-| Tic Tac Toe                           | Dart & Flutter            |
-| Medicine Management System            | Dart, Flutter, Firebase   |
-| Pharmacy Management System            | C++                       |
-| Calculator Console App                | C++                       |
-| Calculator Mobile App                 | Dart & Flutter            |
-| Sign Up Page                          | Dart & Flutter            |
-| Weather App                           | Dart & Flutter            |
-| To-Do List App                        | Dart & Flutter            |
-| Shoe Store App                        | Dart & Flutter            |
-
----
-
 ## 🏅 Certifications & Achievements
 
 - 🎖️ **MLSA FCIT – Tech War**
