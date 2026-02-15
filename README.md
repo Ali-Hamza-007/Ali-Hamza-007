@@ -1,7 +1,7 @@
 # 👨‍💻 Ali Hamza
 
 🎓 *Bachelors in Information Technology (Ongoing)*  
-📍 Punjab University College of Information Technology (PUCIT), Lahore, Pakistan  
+📍 University of the Punjab (PUCIT), Lahore, Pakistan  
 📅 Expected Graduation: **September 2027**
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate **Information Technology student** with a deep interest in **App Development** and **Problem Solving**. I strive for continuous personal and professional growth, committed to delivering tasks on time, learning new technologies, and collaborating with teams to build impactful software solutions.
+I’m a passionate **Information Technology student** with a deep interest in **App & Web Development** and **Problem Solving**. I strive for continuous personal and professional growth, committed to delivering tasks on time, learning new technologies, and collaborating with teams to build impactful software solutions.
 
 ---
 
@@ -40,13 +40,13 @@ I’m a passionate **Information Technology student** with a deep interest in **
 ## 💻 Skills
 
 ### 👨‍💻 Programming Languages
-- C, C++, SQL
+- C, C++, SQL , Python
 
 ### 🚀 Development Tools
-- Dart, Flutter, HTML, CSS
+- Dart, Flutter, HTML, CSS , React , NodeJs
 
 ### 🗃️ Databases
-- SQL, Oracle, Firebase
+- SQL, Oracle, Firebase ,MongoDB ,PostgreSQL ,Hive 
 
 ### 🧠 Soft Skills
 - Problem Solving
