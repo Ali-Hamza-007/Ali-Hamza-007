@@ -59,6 +59,7 @@ I’m a passionate **Information Technology student** with a deep interest in **
 
 - 🎖️ **MLSA FCIT – Tech War**
 - 🔍 **SEO Strategies by BYJU’s**
+- 🔍 **Anthropic Claude Courses**
 
 ---
 
