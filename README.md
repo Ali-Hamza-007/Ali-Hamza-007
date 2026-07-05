@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate **Information Technology student** with a deep interest in **App & Web Development** and **Problem Solving**. I strive for continuous personal and professional growth, committed to delivering tasks on time, learning new technologies, and collaborating with teams to build impactful software solutions.
+I’m a passionate **Information Technology student** with a deep interest in **App , Web Development & AI** and **Problem Solving**. I strive for continuous personal and professional growth, committed to delivering tasks on time, learning new technologies, and collaborating with teams to build impactful software solutions.
 
 ---
 
@@ -43,7 +43,7 @@ I’m a passionate **Information Technology student** with a deep interest in **
 - C, C++, SQL , Python
 
 ### 🚀 Development Tools
-- Dart, Flutter, HTML, CSS , React , NodeJs
+- Dart, Flutter, HTML, CSS , React , NodeJs , React Native
 
 ### 🗃️ Databases
 - SQL, Oracle, Firebase ,MongoDB ,PostgreSQL ,Hive 
