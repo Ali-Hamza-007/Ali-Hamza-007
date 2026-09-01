@@ -50,21 +50,21 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
   <td width="90"><b>🎓</b></td>
   <td>
     <b>Bachelors in Information Technology</b><br/>
-    📍 PUCIT, Lahore &nbsp;|&nbsp; 📅 Enrolled — Expected Sept 2027
+    📍 PUCIT, Lahore &nbsp;|&nbsp; 📅 Enrolled — Expected August 2027
   </td>
 </tr>
 <tr>
   <td><b>🏆</b></td>
   <td>
     <b>Intermediate in Computer Science (ICS)</b><br/>
-    📍 Punjab College, Jaranwala &nbsp;|&nbsp; 🎯 <b>1003 / 1100 (A+)</b>
+    📍 Punjab College &nbsp;|&nbsp; 🎯 <b>1003 / 1100 (A+)</b>
   </td>
 </tr>
 <tr>
   <td><b>📘</b></td>
   <td>
     <b>Matriculation</b><br/>
-    📍 AW Grammar High School, Jaranwala &nbsp;|&nbsp; 🎯 <b>1088 / 1100 (A+)</b>
+    📍 AW Grammar High School &nbsp;|&nbsp; 🎯 <b>1088 / 1100 (A+)</b>
   </td>
 </tr>
 </table>
@@ -109,10 +109,6 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Ali-Hamza-007&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ali-Hamza-007&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" width="90%"/>
 </div>
 
 ---
