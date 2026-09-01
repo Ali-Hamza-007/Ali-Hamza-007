@@ -103,8 +103,8 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-007&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Ali-Hamza-007&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-Hamza-007&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </div>
 
 <div align="center">
