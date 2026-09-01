@@ -19,10 +19,10 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-alihamza5039182%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihamza5039182@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hamza-905489292/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ali--Hamza--007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-007)
-[![Phone](https://img.shields.io/badge/Call-0301--9481081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:03019481081)
+<a href="mailto:alihamza5039182@gmail.com"><img src="https://img.shields.io/badge/Email-alihamza5039182%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ali-hamza-905489292/"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Ali-Hamza-007"><img src="https://img.shields.io/badge/GitHub-Ali--Hamza--007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="tel:03019481081"><img src="https://img.shields.io/badge/Call-0301--9481081-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 
 </div>
 
@@ -73,29 +73,30 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p><b>Languages</b></p>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart&theme=dark" alt="C, C++, Python, JavaScript, Dart" height="48"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" height="28"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart&theme=dark" alt="languages"/>
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+<p><b>Frameworks & Tools</b></p>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,html,css,git&theme=dark" alt="Flutter, React, Node.js, HTML, CSS, Git" height="48"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="28"/>
+</p>
 
-**Frameworks & Tools**
+<p><b>Databases</b></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,oracle&theme=dark" alt="MongoDB, PostgreSQL, Firebase, Oracle" height="48"/>
+<img src="https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logo=flutter&logoColor=white" alt="Hive" height="28"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,html,css,git&theme=dark" alt="tools"/>
-&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,oracle&theme=dark" alt="databases"/>
-&nbsp;
-![Hive](https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logo=hive&logoColor=white)
-
-**Soft Skills**
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6366F1?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-22D3EE?style=for-the-badge)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-8B5CF6?style=for-the-badge)
+<p><b>Soft Skills</b></p>
+<p>
+<img src="https://img.shields.io/badge/Problem%20Solving-6366F1?style=for-the-badge" alt="Problem Solving" height="28"/>
+<img src="https://img.shields.io/badge/Communication-22D3EE?style=for-the-badge" alt="Communication" height="28"/>
+<img src="https://img.shields.io/badge/Team%20Collaboration-8B5CF6?style=for-the-badge" alt="Team Collaboration" height="28"/>
+</p>
 
 ---
 
@@ -107,11 +108,11 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamza-007&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Ali-Hamza-007&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hamza-007&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ali-Hamza-007&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" width="90%"/>
 </div>
 
 ---
@@ -126,13 +127,15 @@ fun_fact: "I enjoy turning tricky problems into clean, working code 🚀"
 
 ## 🙌 Open To
 
-![Collaboration](https://img.shields.io/badge/-Collaboration-6366F1?style=flat-square)
-![Mentorship](https://img.shields.io/badge/-Mentorship-22D3EE?style=flat-square)
-![Freelance](https://img.shields.io/badge/-Freelance%20Projects-8B5CF6?style=flat-square)
-![Open Source](https://img.shields.io/badge/-Open%20Source-10B981?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/-Collaboration-6366F1?style=flat-square" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/-Mentorship-22D3EE?style=flat-square" alt="Mentorship"/>
+<img src="https://img.shields.io/badge/-Freelance%20Projects-8B5CF6?style=flat-square" alt="Freelance Projects"/>
+<img src="https://img.shields.io/badge/-Open%20Source-10B981?style=flat-square" alt="Open Source"/>
+</p>
 
 I'm always excited to collaborate on impactful tech projects, learn from experienced developers, and contribute to open-source. Reach out anytime through the links above! 🚀
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
-
 </div>
