@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ali-Hamza-007&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Ali-Hamza-007&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/> -->
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22D3EE?style=for-the-badge" alt="status"/>
 
 </div>
